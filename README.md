@@ -7,7 +7,10 @@ At ANZ, we receive thousands of email everyday, as a part of the security team, 
 
 **Our Goal,**  once we find out the status of the email, we will either block the email or release to the user.
 
-
+## Resources
+* [How to stay safe online](https://www.anz.com.au/security/protect-yourself/online/)
+* [Lists of Email needs to be investigated](https://cdn.theforage.com/vinternships/companyassets/AKkAyEwWc8wjPxx9n/Emails%20to%20Investigate.pdf)
+  
 
 
 
